@@ -41,13 +41,14 @@ padding-bottom: 5px;
 
 h1{ margin: 25px;
     padding-top: 20px;
+   padding-left: 55px;
         font-family: Proxima Nova; font-size: 30pt;
 }
 
-h2{ margin: 25px; font-family: Proxima Nova; font-size: 28;
+h2{ margin: 25px; font-family: Proxima Nova; font-size: 28;  padding-left: 55px;
   }
 
-h3{ margin: 25px; font-family: Proxima Nova;
+h3{ margin: 25px; font-family: Proxima Nova;  padding-left: 55px;
     font-size: 20pt;
 }
 
@@ -57,10 +58,12 @@ body{ margin: 0;
     line-height: 1.5;
     }
 
-p{ margin: 50px;
+p{ margin: 50px; padding-right: 100px; padding-left: 80px;
  }
 
-ul{ margin: 50px; }
+ul{ margin: 50px; padding-right: 100px; padding-left: 150px;}
+
+figure{ padding-left: 80px;}
 
 footer{ 
        margin-top: 20px;
