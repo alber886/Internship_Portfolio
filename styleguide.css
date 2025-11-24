@@ -62,8 +62,7 @@ p{ margin: 50px;
 
 ul{ margin: 50px; }
 
-footer{ position: fixed;
-       bottom: 0;
+footer{ 
        margin-top: 20px;
     background-color: maroon;
     color: white
