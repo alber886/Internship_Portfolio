@@ -24,7 +24,7 @@ header{ background-color: maroon; color: white;
     font-family: Proxima Nova;
   padding: 20px;
 padding-bottom: 5px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .topnav a:hover{
@@ -37,16 +37,16 @@ padding-bottom: 5px;
   color: black;
 }
 
-h1{ margin: 25px;
+h1{ margin: 35px;
     padding-top: 20px;
    text-align: center;
         font-family: Proxima Nova; font-size: 30pt;
 }
 
-h2{ margin: 25px; font-family: Proxima Nova; font-size: 28;  padding-left: 170px;
+h2{ margin: 35px; font-family: Proxima Nova; font-size: 28;  padding-left: 170px;
   }
 
-h3{ margin: 25px; font-family: Proxima Nova;  padding-left: 170px;
+h3{ margin: 35px; font-family: Proxima Nova;  padding-left: 170px;
     font-size: 20pt;
 }
 
